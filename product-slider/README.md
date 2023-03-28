@@ -1,1 +1,3 @@
-read me hear
+Product slider
+
+![slider](./assets/images/product-slider.png)
